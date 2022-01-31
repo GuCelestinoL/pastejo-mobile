@@ -6,18 +6,20 @@ export const Container = styled.View`
     flex: 1;
     align-items: flex-start;
     justify-content: center;
-    margin-left: 20px;
+    background-color: #57CE71;
 `
 
 export const ContainerButton = styled.View`
     flex-direction: column;
     align-items: flex-start;
+    margin-left: 20px;
 `
 
 export const Title = styled.Text`
     color: #FFFFFF;
     font-size: 36px;
     font-family: FiraSans_600SemiBold;
+    margin-left: 20px;
 `
 
 export const SubTitle = styled.Text`
@@ -26,6 +28,7 @@ export const SubTitle = styled.Text`
     font-family: FiraSans_500Medium;
     margin-top: 10px;
     margin-bottom: 30px;
+    margin-left: 20px;
 `
 
 export const ButtonGreen = styled(TouchableOpacity)`
