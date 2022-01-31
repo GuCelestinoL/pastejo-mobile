@@ -6,7 +6,7 @@ export const Container = styled.View`
     flex: 1;
     align-items: flex-start;
     justify-content: center;
-    background-color: #57CE71;
+    background-color: #324440;
 `
 
 export const ContainerButton = styled.View`
